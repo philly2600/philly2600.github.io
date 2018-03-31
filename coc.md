@@ -10,3 +10,5 @@ We have nothing to hide and we don't presume to judge who is worthy of attending
 backfire as it did at the infamous Washington DC meeting in 11/92.
 
 We act in a responsible manner. We don't do illegal things and we don't cause problems for the place we're meeting in. *Most* 2600 meetings are welcomed by the establishments we choose.
+
+_Based on the [2600 Meeting Guidelines](https://www.2600.com/meetings/guidelines.html){:target="_blank"}_.

@@ -23,6 +23,10 @@ header, nav, footer {
 	text-align: center;
 }
 
+footer {
+	padding-bottom: 15px;
+}
+
 .ascii {
 	color: rgba(255,255,255,1);
 	font-weight: bold;
