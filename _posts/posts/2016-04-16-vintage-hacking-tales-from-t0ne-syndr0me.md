@@ -10,8 +10,6 @@ keywords: "2600, 90s, hacking, tone dialer"
 author: mikedank
 ---
 
-# {{ page.title }}
-
 I had the pleasure of receiving an email from Marcos Duarte (aka *T0ne Syndr0me*) who read the Hacking History article I wrote in 2013, tracing back some of Philly's hacking history.
 
 Marcus attended some Philly 2600 meetings back in the late '90s and sent me a few stories he could recount from the time. Simply put, I found his stories to be fantastic. You can only piece together so much from reading old articles and books. Having a first-hand account is like a breath of fresh air. With his permission, I'm posting both stories below.
@@ -53,10 +51,3 @@ She connected the call!
 > I saved the day, and felt like a badass. 16yrs old, doin' "big things" at Philly 2600, hahaha.
 
 Do you have any old Philly hacking stories? Let me know!
-
-{% for member in site.categories.team %}
-{% if member.title == page.author %}
---
-<br>By {{ member.fullname }} (<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>)
-{% endif %}
-{% endfor %}
