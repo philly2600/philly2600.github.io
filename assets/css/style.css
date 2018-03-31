@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+	background-image: url("../img/background.gif");
+}
+
+body {
+	background-color: rgba(0,0,0,0.97);
+	color: rgba(255,255,255,0.7);
+	padding: 5px;
+	margin: auto;
+	width: 80%;
+	border: 1px dashed rgba(255,255,255,0.7);
+	font-family: "Open Sans";
+}
+
+header, nav, main, footer {
+	margin: 15px;
+	border-bottom: 1px dashed rgba(255,255,255,0.5);
+}
+
+header, nav, footer {
+	text-align: center;
+}
+
+.ascii {
+	color: rgba(255,255,255,1);
+	font-weight: bold;
+}
+
+.logo {
+	width: 80%;
+	max-width: 638px;
+	display: block;
+	margin: 0 auto;
+	border 0;
+}
+
+nav ul {
+	display: block;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	padding-left: 10px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: rgba(255,255,255,1);
+}
+
+nav ul li a:hover {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #96d218;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+pre {
+	font-family: monospace;
+}
+
+.highlighter-rouge {
+	color: rgba(255,255,255,0.4);
+}
+
+.highlight {
+	color: rgba(255,255,255,0.7);
+}
+
+.highlight {
+	border: 1px dashed rgba(255,255,255,0.3);
+	padding: 15px;
+	background-color: #0D0D0D;
+}
+
+main iframe {
+	width: 80%;
+	margin-left: 10%;
+	border: 1px dashed rgba(255,255,255,0.5);
+}
+
+img {
+	width: 80%;
+	border: 0;
+}
+
+main header {
+	text-align: center;
+	padding-bottom: 15px;
+	border: 0;
+}

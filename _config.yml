@@ -1,0 +1,24 @@
+# Site specific settings
+title: "Philly 2600 - Crack Liberty Bells & Passwords"
+name: "Philly 2600"
+keywords: "hacking, phreaking, infosec, 2600"
+baseurl: ""
+url: "http://philly2600.github.io"
+description: "Philadelphia's 2600 hacker meetup"
+#cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+#lang_alternate: "pt_BR"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+#disqus: test
+twitter: philly2600
+github: philly2600
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
