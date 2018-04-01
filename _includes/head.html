@@ -2,12 +2,7 @@
 <!-- Basic information about this page -->
 <meta charset="UTF-8">
 <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/img/fav.ico">
-<title>
-	{% if page.title %}
-		{{ page.title }} ::
-	{% endif %}
-	{{ site.title }}
-</title>
+<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.title }}</title>
 
 <!-- Meta tag looking for mobile devices -->
 <meta name="viewport" content="initial-scale=1.5">

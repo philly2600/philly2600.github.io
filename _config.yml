@@ -10,15 +10,14 @@ fanpage_id: ""
 
 # Site general settings
 lang: "en"
-#lang_alternate: "pt_BR"
 ssl: false # It will redirect to https
 
 # Media
 # Just the shortname:
-#disqus: test
 twitter: philly2600
 github: philly2600
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
