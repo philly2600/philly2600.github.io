@@ -7,7 +7,7 @@ layout: default
 	by 
 	{% for member in site.categories.team %}
 	{% if member.title == page.author %}
-	<author>{{ member.fullname }}</author> (<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>)
+	<author>{{ member.fullname }}</author>{% if member.twitter %} (<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a>){% endif %}
 	{% endif %}
 	{% endfor %}
 </header>
