@@ -30,13 +30,13 @@ I put on my gloves and snag a hardhat out of milk crate on a shelf by the stairs
 
 I quickly realize I can't stand up all the way and have to hunch over, but that isn't nearly as assaulting as the dust that comes out from seemingly everywhere and permeates through the air thick like smoke. Aaron walks slowly forward with his flashlight in hand and I follow close behind as he points out different areas of the space. We see newer stuff like a few Dell servers and stacks of Intel-based PCs at first but as we go further in we take more steps back in time. Aaron shines his light on a pile of all-in-one Macs before going further to the more interesting artifacts. On the left are some more modern machines, followed by boxes upon boxes of various documents, computers, and peripherals. I see Kaypros with Commodores with IBM clones and crazy displays for systems I can't even fathom. There are tons of Macs, a few Mac clones, Apple ][s, and some old portable computers the size of suitcases. There are bags of electronics: half finished projects from decades before, muddled in with 8-bit personal computers, a pile of Sun workstations, and boxes of 5.25" floppy disks. On the right side are more Macs: G5s, G3s, a dozen classic Macs, some older desktops and a seemingly endless collection of obscure monitors and terminals to other systems. This is where we start.
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-02.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-02.jpg"></a><br>A view of the left side</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-02.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-02.jpg"></a><br>A view of the left side<br></center>{% endraw %}
 
 {% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-03.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-03.jpg"></a><br>A claustrophobic shot of the beginnings of the right side</center>{% endraw %}
 
 We navigate down the narrow path separating the space straight through the middle and get acquainted with the Mac area. We line up rows of milk crates and start digging, sorting along the way. Put the classic Macs here, put modems in this bin, mice in that bin, terminals over here, MIPS-based hardware over there. We sort and sort and sort, moving the heavy machines slowly as we work another path into the mess. The day was a cold one, but we quickly discarded our jackets as we carried hardware along the narrow aisle we carved out; we were warm enough simply moving back and forth, ducking beneath low hanging beams and swiveling around waist-high stacks that created our own personal obstacle course. As we went, we stopped to appreciate anything interesting we happened to find. Almost immediately we come across a monitor for a NeXTcube (though we didn't find the cube itself) and we dug up other odd monitors and software packages and interesting little add-on boards that most people have probably long forget. We pooled our expertise and our energy and sorted in a long sprint.
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-04.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-04.jpg"></a><br>After we cleared a new path</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-04.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-04.jpg"></a><br>After we cleared a new path<br></center>{% endraw %}
 
 {% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-05.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-05.jpg"></a><br>Cleared path continued</center>{% endraw %}
 
@@ -46,9 +46,9 @@ Aaron told me that a lot of this stuff will ultimately be cleared out. The newer
 
 After a brief break, we pushed back against the section we were using for trash so we had more room to sort. Ultimately, we successfully cleared space more terminals and bins upon bins of manuals - hard copies are always under-appreciated. We then moved around, more slowly, to some of the more obscure hardware - testing a few things as we went. More time in this stretch was just spent digging as opposed to organizing. We wanted to see what was in some of the giant boxes at the bottoms of the stacks. We didn't want to leave any stone unturned. Who knows what would be tucked away? We sorted through some IBM clones, found an Amiga 2500, a Wang Terminal, a Vector Monitor, a Silicon Graphics Indy, a whole mess of Kaypros and some more interesting items like a computer for those with disabilities and a strange keyboard or computer that neither of us could quite figure out. Down below us, people were trickling in for a computer class in one of the many rooms. "Who here has internet access at home?" I heard an instructor ask before I accidentally knocked over a PowerPC Mac. Hopefully they didn't mind the noise.
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-07.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-07.jpg"></a><br>The only label is "Delta Dava IV Cherry." Keyboard or 8-bit computer?</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-07.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-07.jpg"></a><br>The only label is "Delta Dava IV Cherry." Keyboard or 8-bit computer?<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-08.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-08.jpg"></a><br>SGI Indy</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-08.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-08.jpg"></a><br>SGI Indy<br></center>{% endraw %}
 
 {% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-09.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-09.jpg"></a><br>Stack of Altos 580s on some Kaypros next to a Commodore 128</center>{% endraw %}
 
@@ -64,38 +64,38 @@ With any luck, I'll be asked back. There's a lot to go through and I can't help 
 
 And with any hope, I can keep expanding it.
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-11.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-11.jpg"></a><br>Another shot of the left side</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-11.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-11.jpg"></a><br>Another shot of the left side<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-12.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-12.jpg"></a><br>Some newer Intel-based PCs</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-12.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-12.jpg"></a><br>Some newer Intel-based PCs<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-13.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-13.jpg"></a><br>More of the Mac area</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-13.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-13.jpg"></a><br>More of the Mac area<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-14.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-14.jpg"></a><br>Newer computers tucked away</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-14.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-14.jpg"></a><br>Newer computers tucked away<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-15.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-15.jpg"></a><br>More Macs, pink note states that this Mac was the second produced</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-15.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-15.jpg"></a><br>More Macs, pink note states that this Mac was the second produced<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-16.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-16.jpg"></a><br>Sun workstations, Macs, Apples, old laptops</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-16.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-16.jpg"></a><br>Sun workstations, Macs, Apples, old laptops<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-17.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-17.jpg"></a><br>RadioShack diskettes. Think the warranty is still good?</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-17.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-17.jpg"></a><br>RadioShack diskettes. Think the warranty is still good?<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-18.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-18.jpg"></a><br>5.25" diskettes</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-18.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-18.jpg"></a><br>5.25" diskettes<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-19.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-19.jpg"></a><br>Close-up of the Altos 580s</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-19.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-19.jpg"></a><br>Close-up of the Altos 580s<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-20.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-20.jpg"></a><br>A lone Kaypro II</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-20.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-20.jpg"></a><br>A lone Kaypro II<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-21.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-21.jpg"></a><br>Wang terminal</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-21.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-21.jpg"></a><br>Wang terminal<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-22.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-22.jpg"></a><br>A Tandy and a terminal</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-22.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-22.jpg"></a><br>A Tandy and a terminal<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-23.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-23.jpg"></a><br>The Amiga 2500 and an Apple monitor</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-23.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-23.jpg"></a><br>The Amiga 2500 and an Apple monitor<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-24.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-24.jpg"></a><br>Unknown brand keyboard</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-24.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-24.jpg"></a><br>Unknown brand keyboard<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-25.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-25.jpg"></a><br>Vector display</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-25.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-25.jpg"></a><br>Vector display<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-26.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-26.jpg"></a><br>Timex personal computer</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-26.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-26.jpg"></a><br>Timex personal computer<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-27.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-27.jpg"></a><br>Another Kaypro II and a Kaypro 10</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-27.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-27.jpg"></a><br>Another Kaypro II and a Kaypro 10<br></center>{% endraw %}
 
-{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-28.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-28.jpg"></a><br>A shot of the left side from out path in the Mac section</center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-12-23-helping-aaron-28.jpg"><img style="width: 80%; max-width: 640px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-12-23-helping-aaron-28.jpg"></a><br>A shot of the left side from out path in the Mac section<br></center>{% endraw %}
