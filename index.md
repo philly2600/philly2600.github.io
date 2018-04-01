@@ -15,8 +15,7 @@ Philly 2600 has been meeting since the early '90s, and was one of the first 2600
 
 We meet the first Friday of the month at 30th Street Station. You will find us sitting at the tables in front of Taco Bell, which is located by the station entrance facing Market Street. This is roughly at lat/long **39.9551168,-75.1821713**. [Get directions via Google Maps](https://www.google.com/maps/place/39%C2%B057'18.4%22N+75%C2%B010'55.8%22W/@39.9551168,-75.18436,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d39.9551168!4d-75.1821713){:target="_blank"}.
 
-![meeting-location]({{site.baseurl}}/assets/img/index-30th-street-station.png)
-{:.some-css-class style="width: 800px"}
+{% raw %}<a href="/assets/img/index-30th-street-station.png"><img style="width: 80%; max-width: 800px; display: block; margin: 0 auto; border 0" src="/assets/img/index-30th-street-station.png"></a>{% endraw %}
 
 Unless otherwise noted, people begin to show up between **5:30 and 6:00 PM**. and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where the group is, grab a seat at any table and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later, the whole group has likely moved to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually are all sitting at a table in the corner, and all ages are welcome!
 
