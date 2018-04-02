@@ -10,7 +10,7 @@ keywords: "asic, bitcoin, exchange, mining"
 author: mikedank
 ---
 
-If you have not done so already, please read parts 1, 2 & 3 of this series.
+*If you have not done so already, please read parts 1, 2 & 3 of this series.*
 
 As of writing this, I've spent one week running my setup with one USB Block Eruptor and one week running my setup with three. In my first week, I received about two payouts of 0.01 bitcoin each while in the second week I received that payout almost daily.
 
