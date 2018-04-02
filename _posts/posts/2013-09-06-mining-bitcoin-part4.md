@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mining Bitcoin for Fun and (Basically No) Profit, Part 4: Aftermath
+title: "Mining Bitcoin for Fun and (Basically No) Profit, Part 4: Aftermath"
 date: 2013-09-06 08:38:00
 categories: posts
 comments: false
 en: true
-description: Mining Bitcoin for Fun and (Basically No) Profit, Part 4: Aftermath
+description: "Mining Bitcoin for Fun and (Basically No) Profit, Part 4: Aftermath"
 keywords: "asic, bitcoin, exchange, mining"
 author: mikedank
 ---
@@ -28,6 +28,7 @@ Recall our initial build list, this time with some prices:
 * 1 x Network Cable ($5.49 + $0 shipping = $5.49)
 * 1 x Powered USB HUB ($19.95 + $0 shipping = $19.95)
 * n x USB Block Eruptor (($42.99 + $3.99 shipping) * 3 = $140.94)
+
 **Total = $213.97 USD**
 
 Pretty big when you put it all together, but this is worst case scenario - when you don't start with anything. I already had most of this around the house. Besides the USB Block Eruptors, I did need to purchase a USB hub, but I wouldn't consider this part of my investment as I needed one anyway (the project more or less gave me an excuse to get it). I'm more concerned with making back my money from the Block Eruptors, which total *$140.94* USD.
