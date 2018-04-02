@@ -10,7 +10,7 @@ keywords: "android, api, bitcoin, java, json, mining, programming"
 author: mikedank
 ---
 
-*If you have not done so already, please read parts 1 and 2 in this series.*
+*If you have not done so already, please read parts [1](../mining-bitcoin-part1/) and [2](../mining-bitcoin-part2/) in this series.*
 
 So I have a mining rig that's successfully rewarding me with bitcoins. Normal people would probably stop at this point. One nice thing about mining in Slush's Pool is that it has a handy email notification option that tells you when credit is being transferred to your Bitcoin wallet. This is pretty cool, but what if I want more in-depth information? For example, what if I want to know my hash rate, or if my miner is alive (did the system crash?) or how many bitcoins I have total?
 
@@ -83,7 +83,7 @@ So now I had the APIs I was going to use and needed to put them all together in 
 
 When running the application, provided there's network connectivity and all the servers are up, you will be rewarded with a screen like this:
 
-{% raw %}<center><a href="/assets/img/2013-09-06-mining-bitcoin-part3-01.png"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-06-mining-bitcoin-part3-01-sm.png"></a><figquote>The application in action</figquote><br></center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-09-05-mining-bitcoin-part3-01.png"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-05-mining-bitcoin-part3-01-sm.png"></a><figquote>The application in action</figquote><br></center>{% endraw %}
 
 Not too shabby. If you wanted to use it yourself, it would be necessary to hard-code your own key from Slush's pool. There doesn't appear to be an API call by username (by design), so it needs to be implemented manually at some point (which happens to be in code as of right now).
 

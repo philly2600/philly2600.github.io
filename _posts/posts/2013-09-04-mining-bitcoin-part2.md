@@ -10,7 +10,7 @@ keywords: "asic, bitcoin, mining, currency, linux, minepeon, pool, raspberry pi,
 author: mikedank
 ---
 
-*If you have not yet, please read the first article in this series: Mining Bitcoin for Fun and (Basically No) Profit, Part 1: Introduction*
+*If you have not yet, please read the first article in this series: [Mining Bitcoin for Fun and (Basically No) Profit, Part 1: Introduction](../mining-bitcoin-part1/)*
 
 I have a few [Raspberry Pis](http://www.raspberrypi.org/) around my house that I like to play with - four in total. Prior to this idea of a Bitcoin project, I had one running as a media center and another operating as a PBX. Of the remaining two, one was an early model B with 256MB of RAM while the other was the shiny new revision sporting 512MB. I wanted to save the revised model for the possibility of a MAME project, so I decided to put the other, older one to work. It would help me on my quest to mine bitcoins.
 
