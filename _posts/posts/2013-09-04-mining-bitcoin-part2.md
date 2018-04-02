@@ -73,13 +73,13 @@ Next go to the *Settings* page and change your password for the MinePeon web int
 
 If everything is configured correctly, within a few hours (or instantly), you should see some activity on your MinePeon *Status* screen. Additionally, be sure to check your account on the mining pool you signed up with to make sure everything is working as expected.
 
-{% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-07.png"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-07-sm.png"></a><figquote>My MinePeon Pool & Device Status</figquote><br></center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-07.png"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-07-sm.png"></a><figquote>My MinePeon Pool & Device Status</figquote><br><br></center>{% endraw %}
 
 {% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-08.png"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-08-sm.png"></a><figquote>My Slush's Pool Worker Status</figquote><br></center>{% endraw %}
 
 Now, just sit back and let your machine go to town. The only thing you have to do at this point is make sure the USB hub continues to get power (don't let anyone unplug it) and it should run continuously. On your first day or two, it may take a while before your status update and payout will take even longer.
 
-{% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-09.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-09-sm.jpg"></a><figquote>My mining rig, hub side</figquote><br></center>{% endraw %}
+{% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-09.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-09-sm.jpg"></a><figquote>My mining rig, hub side</figquote><br><br></center>{% endraw %}
 
 {% raw %}<center><a href="/assets/img/2013-09-04-mining-bitcoin-part2-10.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-04-mining-bitcoin-part2-10-sm.jpg"></a><figquote>My mining rig, Raspberry Pi side</figquote><br></center>{% endraw %}
 

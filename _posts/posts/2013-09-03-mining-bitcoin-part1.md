@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Mining Bitcoin for Fun and (Basically No) Profit, Part 1: Introduction"
+date: 2013-09-03 19:04:00
+categories: posts
+comments: false
+en: true
+description: "Mining Bitcoin for Fun and (Basically No) Profit, Part 1: Introduction"
+keywords: "asic, bitcoin, cpu, currency, cyberpunk, e-gold, fpga, gpu"
+author: mikedank
+---
+
+If you're anything like myself, you've been keeping loose tabs on Bitcoin over the years. When I first read about the cryptocurrency, I thought it was an awesome concept. Now, I had heard about electronic currencies before. The first mental link I made upon hearing about Bitcoin was that it reminded me of e-gold. Founded in 1996, years before Paypal, e-gold was a gold-backed digital currency created by a few guys in Florida. e-gold was the de facto currency for underground transactions, and was recently referenced in Kevin Poulsen's *Kingpin* as the choice of the carder market - the collection of online outlets to buy and sell credit card information.
+
+{% raw %}<center><a href="/assets/img/2013-09-03-mining-bitcoin-part1-01-sm.gif"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-03-mining-bitcoin-part1-01-sm.gif"></a><figquote>egold's logo</figquote><br></center>{% endraw %}
+
+Though it was forged near the tail of e-gold's run and adopted a similar concept, Bitcoin turned out to be a different beast entirely. While it is still favored for underground transactions, closely integrated with controversial websites like The Silk Road, the currency had striking differences that allowed it to come into its own. Bitcoin is distributed (read peer-to-peer), decentralized, and considered fiat money (as opposed to representative money). There is no central authority to go to with legal matters, you cannot simply flick a switch and shut down the network, and the currency only has value because we give it value - it isn't backed against gold or silver or another currency.
+
+Bitcoin also has an interesting history. The identity of the creator, who goes by the name Satoshi Nakamoto, is still unknown to the public. Many theories have come up to who the man behind Bitcoin really is. Some speculations range from an academic team to a government agency to a reclusive cryptographer. If you want to see more speculation, there's [an interesting Vice article](http://motherboard.vice.com/blog/who-is-satoshi-nakamoto-the-creator-of-bitcoin) about the whole thing I'd recommend checking out.
+
+## Background
+
+In 2011, I got interested enough in Bitcoin to set up my own wallet, download the block-chain, and set up little donate buttons on a blog or two. The donations never rolled in (and why would they), but my fascination with the technology did. The idea of a monetary system that worked sort of "like BitTorrent" not only held my attention because of the possibility of financial success but also because it made me feel like I was at the forefront of something cool and exciting. I pictured scenes straight out of **Serial Experiments Lain** or **Neuromancer** with a dingy apartment somewhere in a dense city. A patchwork of tangled computer cables linking unknown and mysterious hardware together to just run and create money for me while I'm out. Nothing ever sounded both so cyberpunk and actually possible (though probably not as bleakly artistic).
+
+At the time, CPU mining was on its way out as GPU mining was taking over. The internet was flooding with pictures of enthusiasts' mining rigs. Case-less computers, motherboards with a large amount of PCI slots, each filled with a top-of-the-line graphics card. One of these setups was big, hot, messy, expensive, and beautiful. Usually a person would have a few of these chaotic mining machines all running in the same room and they caught the cyberpunk feel I so badly wanted to create for myself. I wanted the hectic rat's nest of wires and satisfaction of a successful rig build.
+
+{% raw %}<center><a href="/assets/img/2013-09-03-mining-bitcoin-part1-02.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-03-mining-bitcoin-part1-02-sm.jpg"></a><figquote>The "Super Rig"</figquote><br></center>{% endraw %}
+
+I never got that far. Building a machine to do this was an expensive process and I didn't want to put a huge investment on the line when I was operating on a limited budget in the first place. So, ultimately, I steered away from mining as a whole.
+
+That didn't turn me off from the whole technological concept though. I did end up surveying the field to see what people were using Bitcoin for. The possibilities seemed endless. Aside from sales of underground goods, I saw there was gambling, web hosting, and even retails sales (including some coffee shops). Pretty much any type of business that could accept Bitcoin was starting to have outlets that accepted the digital currency. I did what any Bitcoin novice did: got my 0.005 BTC from BitFountain for free (now defunct), and sat on it. No use doing anything with it. One bitcoin was worth around $8 USD at the time, so I had about four cents.
+
+After the GPU mining wave, I next saw the FPGA generation. FPGA stands for Field Programmable Gate Array and is pretty much self-explanatory. An FPGA has a hardware array of logic gates like your typical AND or XOR operations. Sequences of logic gates can be put together to form half-adders and multiplexers and eventually processors (when you chain enough smaller components together). Normally, you would have all of these components pre-determined into some type of integrated circuit called an ASIC (standing for Application Specific Integrated Circuit) which are designed and programmed only for certain unique tasks. Think of an FPGA as a breadboard for the final ASIC design. Both the FPGA and ASIC are programmed in an HDL (hardware description language) such as VHDL or Verilog (or any other ones you might remember from a System Architecture class). Unlike your typical object-oriented or scripting languages, an HDL is more suited for the Electrical Engineer instead of the Software Engineer (me). An HDL allows you to create models and interactions of hardware components as though you had them available physically.
+
+{% raw %}<center><a href="/assets/img/2013-09-03-mining-bitcoin-part1-03.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-03-mining-bitcoin-part1-03-sm.jpg"></a><figquote>XILINX Spartan-3E FPGA</figquote><br></center>{% endraw %}
+
+As you'd guess, FPGAs were a favorite for Bitcoin mining enthusiasts. Developers would program the boards to mine Bitcoin and leave behind anyone still pushing their GPUs to the limit. For me, FPGAs were still a massive investment. Though likely not as much as an outfit of new GPUs, coupled with enough electricity to power a small town, the amount of money for an FPGA was still a few hundred dollars. On top of that, I'd still have to dust off some of my class notes and program the thing. It would have been fun and a great learning experience but at the time I didn't want the hastle. Besides, something better was coming soon anyway.
+
+In the summer of 2012, I started discussing with my co-workers the feasibility of having us set up a Bitcoin mining operation. The whole concept was relatively simple: we were all going to throw money in for a new USB connected ASIC chip and run it off of a computer of our own. We did the math to figure out power consumption, our initial investment, mining complexity increase, etc. and the numbers for our break-even point looked pretty good. The company were were looking at for our miner was Butterfly Labs, who boasted they could provide a chip with an incredible hash rate at only a few hundred dollars. Split between a few people, it didn't seem like too bad of a deal. Then, we started looking into the company. They were plagued with manufacturing delays. When you couple the time delay with the growing mining complexity, your return takes much longer. Couple that with the fact that Butterfly hadn't delivered anything yet, the whole thing could have been someone's pie-in-the-sky idea or giant scam. We decided to shut down our little plan and save ourselves the aggravation. This ended up being a wise decision. Butterfly Labs continued to be plagued by delays and people ended up auctioning off their pre-orders. There are still not that many Butterfly Labs ASIC chips out in the wild, even now.
+
+{% raw %}<center><a href="/assets/img/2013-09-03-mining-bitcoin-part1-04.jpg"><img style="width: 80%; max-width: 300px; display: block; margin: 0 auto; border 0" src="/assets/img/2013-09-03-mining-bitcoin-part1-04-sm.jpg"></a><figquote>Butterfly Labs ASIC Miner</figquote><br></center>{% endraw %}
+
+After all this, I still wanted to try my hand at Bitcoin mining.
+
+I knew that I wasn't going to make a lot of money, but I thought it would be fun. If it made me any money, any at all, that would be something. So I got to work doing a little research.
