@@ -3,7 +3,7 @@ layout: post
 title: Building DIY Community Mesh Networks
 issue: Volume 33, Issue 3
 date: 2016-10-10 00:00:00
-categories: posts
+categories: articles
 comments: false
 en: true
 description: Building DIY Community Mesh Networks
@@ -29,7 +29,7 @@ While each of these mesh networks may run different software and have a differen
 
 ## Picking Your Hardware & OS
 
-When I was first starting out with [Philly Mesh](https://phillymesh.net], I was faced with the issue of acquiring hardware on a shoestring budget. Many will tell you that the best hardware is low-power computers with dedicated wireless cards. This however can incur a cost of several hundred dollars per node. Alternatively, many groups make use of SOHO routers purchased off-the-shelf, flashed with custom firmware. The most popular firmware used here is OpenWRT, an open source alternative that supports a large majority of consumer routers. If you have a relatively modern router in your house, there is a good chance it is already supported (if you are buying specifically for meshing, consider consulting [OpenWRT's wiki](https://wiki.openwrt.org/) for compatibility. Based on Linux, OpenWRT really shines with its packaging system, allowing you to easily install and configure packages of networking software across several routers regardless of most hardware differences between nodes. With only a few commands, you can have mesh packages installed and ready for production.
+When I was first starting out with [Philly Mesh](https://phillymesh.net), I was faced with the issue of acquiring hardware on a shoestring budget. Many will tell you that the best hardware is low-power computers with dedicated wireless cards. This however can incur a cost of several hundred dollars per node. Alternatively, many groups make use of SOHO routers purchased off-the-shelf, flashed with custom firmware. The most popular firmware used here is OpenWRT, an open source alternative that supports a large majority of consumer routers. If you have a relatively modern router in your house, there is a good chance it is already supported (if you are buying specifically for meshing, consider consulting [OpenWRT's wiki](https://wiki.openwrt.org/) for compatibility. Based on Linux, OpenWRT really shines with its packaging system, allowing you to easily install and configure packages of networking software across several routers regardless of most hardware differences between nodes. With only a few commands, you can have mesh packages installed and ready for production.
 
 Other groups are turning towards credit-card-sized computers like the BeagleBone Black and Raspberry Pi, using multiple USB WiFi dongles to perform over-the-air communication. Here, we have many more options for an operating system as many prefer to use a flavor of Linux or BSD, though most of these platforms also have OpenWRT support.
 
