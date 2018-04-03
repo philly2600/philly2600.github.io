@@ -15,6 +15,7 @@ Do you run a meetup or host a space that you think we would like to know about? 
 * [PhillySec](http://www.phillysec.com/)
 * [Philadelphia CryptoParty](https://www.cryptoparty.in/philadelphia)
 * [DC215](https://www.dc215.org/)
+* [Philly Mesh](https://phillymesh.net)
 
 ## College Groups
 
