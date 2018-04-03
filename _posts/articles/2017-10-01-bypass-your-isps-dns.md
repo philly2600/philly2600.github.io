@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Bypass Your ISP’s DNS & Run A Private OpenNIC Server
+title: Bypass Your ISP's DNS & Run A Private OpenNIC Server
 issue: Volume 34, Issue 3
 date: 2017-10-01 00:00:00
 categories: articles
 comments: false
 en: true
-description: Bypass Your ISP’s DNS & Run A Private OpenNIC Server
+description: Bypass Your ISP's DNS & Run A Private OpenNIC Server
 keywords: "2600, bind, cron, dig, dns, opennic"
 author: mikedank
 ---
@@ -111,5 +111,5 @@ Instructions for DNS configuration on many different operating systems and devic
 As always, be sure to take precautions and secure your server if you have not done so already. With a functioning DNS server now configured, this project could be expanded upon (as a follow-up exercise/article) by implementing a tool such as DNSCrypt to authenticate and secure your DNS traffic.
 
 ## Sources
-* https://opennicproject.org
-* http://www.zytrax.com/books/dns
+* [https://opennicproject.org](https://opennicproject.org)
+* [http://www.zytrax.com/books/dns](http://www.zytrax.com/books/dns)
