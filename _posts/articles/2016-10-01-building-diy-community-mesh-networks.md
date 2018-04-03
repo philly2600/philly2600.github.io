@@ -2,7 +2,7 @@
 layout: post
 title: Building DIY Community Mesh Networks
 issue: Volume 33, Issue 3
-date: 2016-10-10 00:00:00
+date: 2016-10-01 00:00:00
 categories: articles
 comments: false
 en: true
