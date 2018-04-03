@@ -8,11 +8,11 @@ Philadelphia is host to a number of great hacking, security, privacy, and user g
 
 Do you run a meetup or host a space that you think we would like to know about? Let us know!
 
-## Meetups
+## Meetups & Groups
 
-* [PLUG](http://www.phillylinux.org/) - The Philadelphia area Linux User Group
-* [Security Shell](http://www.secshell.com/)
-* [PhillySec](http://www.phillysec.com/)
+* [PLUG](http://www.phillylinux.org/) - The Philadelphia area Linux User Group, meetups every first Wednesday, second Tuesday, and third Monday.
+* [Security Shell](http://www.secshell.com/) - Meetups every third Thursday.
+* [PhillySec](http://www.phillysec.com/) - Every second Wednesday.
 * [Philadelphia CryptoParty](https://www.cryptoparty.in/philadelphia)
 * [DC215](https://www.dc215.org/)
 * [Philly Mesh](https://phillymesh.net)
