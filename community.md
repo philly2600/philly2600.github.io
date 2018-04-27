@@ -14,7 +14,8 @@ Do you run a meetup or host a space that you think we would like to know about? 
 * [Security Shell](http://www.secshell.com/) - Meetups every third Thursday.
 * [PhillySec](http://www.phillysec.com/) - Every second Wednesday.
 * [Philadelphia CryptoParty](https://www.cryptoparty.in/philadelphia)
-* [DC215](https://www.dc215.org/)
+* [DC215](https://www.dc215.org/) - Every third Tuesday.
+* [Code for Philly](https://codeforphilly.org) - Multiple events per week.
 * [Philly Mesh](https://phillymesh.net)
 
 ## College Groups
