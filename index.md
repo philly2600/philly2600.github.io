@@ -17,9 +17,9 @@ We meet the first Friday of the month at 30th Street Station. You will find us s
 
 {% raw %}<a href="/assets/img/index-30th-street-station.png"><img style="width: 80%; max-width: 800px; display: block; margin: 0 auto; border 0" src="/assets/img/index-30th-street-station.png"></a>{% endraw %}
 
-Unless otherwise noted, people begin to show up between **5:30 and 6:00 PM**. and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where the group is, grab a seat at any table and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later, the whole group has likely moved to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually are all sitting at a table in the corner, and all ages are welcome!
+Unless otherwise noted, people begin to show up between **6:00 and 7:00 PM**. and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where the group is, grab a seat at any table and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later, the whole group has likely moved to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually are all sitting at a table in the corner, and all ages are welcome!
 
-In the event of a holiday or inclement weather, monitor our [Twitter account](https://twitter.com/philly2600){:target="_blank"} for cancellations and potential recheduling.
+In the event of a holiday or inclement weather, monitor our [Twitter account](https://twitter.com/philly2600){:target="_blank"} for cancellations and potential rescheduling.
 
 # What do I do?
 {:id="what-do"}
