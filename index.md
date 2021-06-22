@@ -19,7 +19,7 @@ We meet the first Friday of the month at 30th Street Station. You will find us s
 
 {% raw %}<a href="/assets/img/index-30th-street-station.png"><img style="width: 80%; max-width: 800px; display: block; margin: 0 auto; border 0" src="/assets/img/index-30th-street-station.png"></a>{% endraw %}
 
-Unless otherwise noted, people begin to show up between **6:00 and 7:00 PM**. and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where the group is, grab a seat at any table and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later, the whole group has likely moved to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually are all sitting at a table in the corner, and all ages are welcome!
+Unless otherwise noted, people begin to show up between **6:00 and 7:00 PM**. and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where the group is, grab a seat at any table and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later, the whole group has likely moved to ~~Bridgewater's Pub, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell~~ (RIP Bridgewater's, new location TBD). We usually are all sitting at a table in the corner, and all ages are welcome!
 
 In the event of a holiday or inclement weather, monitor our [Twitter account](https://twitter.com/philly2600){:target="_blank"} for cancellations and potential rescheduling.
 
@@ -35,6 +35,6 @@ If any of this interests you, come down and check it out! Bringing friends is we
 # Aftermath
 {:id="aftermath"}
 
-As stated earlier, around **8:00 PM** most of the group heads over to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually have a reserved table in the corner, but sometimes the group is so big we spill over into other tables. At Bridgewater's, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. Bridgewater's is open to all ages and there is no pressure to consume alcohol, so all are welcome!
+~~As stated earlier, around **8:00 PM** most of the group heads over to [Bridgewater's Pub](http://www.thepubin30thstreetstation.com/){:target="_blank"}, a bar/resuraunt within 30th Street Station, about 50 feet west of the Taco Bell. We usually have a reserved table in the corner, but sometimes the group is so big we spill over into other tables. At Bridgewater's, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. Bridgewater's is open to all ages and there is no pressure to consume alcohol, so all are welcome!~~ New location TBD!
 
 
