@@ -3,8 +3,6 @@ title: Home
 layout: default
 ---
 
-## Philly 2600 is currently not holding meetups due to the ongoing pandemic. Please check our [Twitter account](https://twitter.com/philly2600){:target="_blank"} for the latest updates on when meetings will resume.
-
 # About
 {:id="about"}
 
