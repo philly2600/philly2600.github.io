@@ -15,7 +15,7 @@ We also have a separate Discord group chat set up. This may eventually be linked
 
 There is also a new, separate Telegram group.
 
-* Chat in the telegram group at https://t.co/FhJZ0MSrZ0?amp=1
+* Chat in the telegram group at [https://t.co/FhJZ0MSrZ0?amp=1](https://t.co/FhJZ0MSrZ0?amp=1)
 
 The older IRC channel is still used by some people, but does not have much active discussion.
 
