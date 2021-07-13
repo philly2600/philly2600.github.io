@@ -4,15 +4,18 @@ layout: default
 ---
 # {{ page.title }}
 
-We use Matrix/Riot chat in order to communicate. Our channel is open to the public, and also bridged with an IRC channel on Freenode.
+We have Matrix/Element chat that is public and bridged with Libera IRC.
 
 * Chat with us at [#philly2600:phillymesh.net](https://chat.phillymesh.net/#/room/#philly2600:phillymesh.net){:target="_blank"}
-* Used the bridged IRC channel at [Freenode/#philly2600](http://webchat.freenode.net?channels=%23philly2600&uio=d4)
+* Used the bridged IRC channel at [Libera/#philly2600](https://web.libera.chat/?channel=#philly2600)
 
-We also have a separate Discord group chat set up.
+We also have a separate Discord group chat set up. This may eventually be linked to the above.
 
-* Chat in the Discord group at [discordapp.com/invite/fATAd44](https://discordapp.com/invite/fATAd44)
+* Chat in the Discord group at [https://discord.com/invite/jMBu9rfthZ](https://discord.com/invite/jMBu9rfthZ)
 
+There is also a new, separate Telegram group.
+
+* Chat in the telegram group at https://t.co/FhJZ0MSrZ0?amp=1
 
 The older IRC channel is still used by some people, but does not have much active discussion.
 
