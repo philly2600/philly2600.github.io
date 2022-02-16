@@ -6,10 +6,10 @@ layout: default
 
 We have Matrix/Element chat that is public and bridged with Libera IRC.
 
-* Chat with us at [#philly2600:phillymesh.net](https://chat.phillymesh.net/#/room/#philly2600:phillymesh.net){:target="_blank"}
-* Used the bridged IRC channel at [Libera/#philly2600](https://web.libera.chat/?channel=#philly2600){:target="_blank"}
+* Chat with us at [#philly2600:matrix.org](https://matrix.to/#/#philly2600:matrix.org){:target="_blank"}
+* Used the bridged IRC channel at [Libera/#philly2600](https://web.libera.chat/#philly2600){:target="_blank"}
 
-We also have a separate Discord group chat set up. This may eventually be linked to the above.
+We also have an unlinked Discord group chat set up. This may eventually be linked to the above.
 
 * Chat in the Discord group at [https://discord.com/invite/jMBu9rfthZ](https://discord.com/invite/jMBu9rfthZ){:target="_blank"}
 
