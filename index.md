@@ -35,6 +35,6 @@ If any of this interests you, come down and check it out! Bringing friends is we
 # Aftermath
 {:id="aftermath"}
 
-~~As stated earlier, around **8:00 PM** most of the group heads over to a bar or restaurant in the area. Here, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. While Philly 2600 is for all ages, where we go after may be 21+. If you are under 21, let the group know and we will try to find a place that can accommodate!
+As stated earlier, around **8:00 PM** most of the group heads over to a bar or restaurant in the area. Here, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. While Philly 2600 is for all ages, where we go after may be 21+. If you are under 21, let the group know and we will try to find a place that can accommodate!
 
 
