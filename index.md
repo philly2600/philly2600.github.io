@@ -21,7 +21,7 @@ On even months (February, April, June, August, October, December) we meet at [If
 
 Unless otherwise noted, people begin to show up between **6:00 and 7:00 PM** and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where people are, grab a seat and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later at 30th St. (during meets at Iffy Books, people usually stay there the entire time), the whole group has likely moved to a bar or restaurant for food or drinks. Be sure to check the latest activity on our [Twitter account](https://twitter.com/philly2600){:target="_blank"} and [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for updates to the group's location.
 
-In the event of a holiday or inclement weather, monitor our [Twitter account](https://twitter.com/philly2600){:target="_blank"} and [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for cancellations and potential rescheduling.
+In the event of a holiday or inclement weather, monitor our [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for cancellations and potential rescheduling.
 
 # What do I do?
 {:id="what-do"}
