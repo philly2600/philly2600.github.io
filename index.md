@@ -13,13 +13,9 @@ Philly 2600 has been meeting since the early '90s, and was one of the first 2600
 # Location & Time
 {:id="location-and-time"}
 
-We meet the first Friday of the month. Currently, we are alternating the meeting location for even and odd months. 
+We meet the first Friday of the month. Currently, we meet **every month** at [Iffy Books](https://iffybooks.net/){:target="_blank"} located at 404 S 20th St ([get directions]([https://maps.app.goo.gl/N2LwrEUszKPd3iaJ9){:target="_blank"}). Construction ia currently impeding meeting at 30th St Station, but we will resume meetings there when we are able.
 
-On odd months (January, March, May, July, September, November) we meet at 30t St. Station ([get directions](https://www.google.com/maps/dir//30th+St+Station,+Market+Street,+Philadelphia,+PA/@39.9558404,-75.2169877,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c6c64edfc6112b:0xaecb4b2c47dd6d3f!2m2!1d-75.1819683!2d39.9557799){:target="_blank"}). If the weather is nice you may find us at the tables out front (close to Market St.) but if the weather is bad we will be indoors on the South side of the building or near the Wendy's/Dunkin.
-
-On even months (February, April, June, August, October, December) we meet at [Iffy Books](https://iffybooks.net/){:target="_blank"} located at 404 S 20th St ([get directions]([https://maps.app.goo.gl/N2LwrEUszKPd3iaJ9){:target="_blank"}).  
-
-Unless otherwise noted, people begin to show up between **6:00 and 7:00 PM** and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you aren't sure where people are, grab a seat and keep an eye out for people discussing tech. If you happen to arrive around **8:00 PM** or later at 30th St. (during meets at Iffy Books, people usually stay there the entire time), the whole group has likely moved to a bar or restaurant for food or drinks. Be sure to check the latest activity on our [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for updates to the group's location.
+Unless otherwise noted, people begin to show up around **6:00** and stay as late as they like. Sometimes people get there earlier, but sometimes they don't show up until much later. If you happen to arrive around **8:00 PM** or later, a portion of the group has likely moved to a bar or restaurant for food or drinks. Be sure to check the latest activity on our [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for updates to the group's location.
 
 In the event of a holiday or inclement weather, monitor our [Mastodon account](https://jawns.club/@philly2600){:target="_blank"} for cancellations and potential rescheduling.
 
@@ -35,6 +31,6 @@ If any of this interests you, come down and check it out! Bringing friends is we
 # Aftermath
 {:id="aftermath"}
 
-As stated earlier, around **8:00 PM** at the 30th St Station meets, most of the group heads over to a bar or restaurant in the area. Here, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. While Philly 2600 is for all ages, where we go after may be 21+. If you are under 21, let the group know and we will try to find a place that can accommodate!
+As stated earlier, around **8:00 PM** some of the group heads over to a bar or restaurant in the area. Here, we essentially keep the meeting going with more conversation, and food/drinks for those wishing to partake. While Philly 2600 is for all ages, where we go after may be 21+. If you are under 21, let the group know and we will try to find a place that can accommodate!
 
 
